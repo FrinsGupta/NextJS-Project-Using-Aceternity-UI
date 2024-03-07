@@ -1,0 +1,55 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Introduction to Python Programming",
+        "slug": "introduction-to-python-programming",
+        "description": "Learn Python programming language from scratch.",
+        "price": 29.99,
+        "instructor": "Alice Johnson",
+        "isFeatured": true,
+        "image": "https://example.com/intro_to_python.jpg"
+      },
+      {
+        "id": 2,
+        "title": "JavaScript Basics",
+        "slug": "javascript-basics",
+        "description": "A beginner's guide to JavaScript fundamentals.",
+        "price": 19.99,
+        "instructor": "Bob Smith",
+        "isFeatured": false,
+        "image": "https://example.com/javascript_basics.jpg"
+      },
+      {
+        "id": 3,
+        "title": "HTML & CSS Fundamentals",
+        "slug": "html-css-fundamentals",
+        "description": "Master the essentials of HTML and CSS.",
+        "price": 24.99,
+        "instructor": "Emily Brown",
+        "isFeatured": true,
+        "image": "https://example.com/html_css_fundamentals.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Responsive Web Design",
+        "slug": "responsive-web-design",
+        "description": "Learn how to create responsive websites using CSS frameworks.",
+        "price": 39.99,
+        "instructor": "David Lee",
+        "isFeatured": false,
+        "image": "https://example.com/responsive_web_design.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Introduction to Data Science",
+        "slug": "introduction-to-data-science",
+        "description": "An introductory course to the field of data science.",
+        "price": 49.99,
+        "instructor": "Sophia Martinez",
+        "isFeatured": true,
+        "image": "https://example.com/intro_to_data_science.jpg"
+      }
+    ]
+  }
+  
